@@ -67,6 +67,10 @@ WindSurf / Cline / Continue / Aider / Gemini CLI / GitHub Copilot — universal 
 
 ![Dashboard example](./examples/example-dashboard.png)
 
+![Portfolio example](./examples/example-portfolio.png)
+
+![Content site example](./examples/example-content.png)
+
 ---
 
 ## What's inside

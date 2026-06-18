@@ -67,6 +67,10 @@ WindSurf / Cline / Continue / Aider / Gemini CLI / GitHub Copilot 通用做法�
 
 ![示例 Dashboard](./examples/example-dashboard.png)
 
+![示例 Portfolio](./examples/example-portfolio.png)
+
+![示例内容站](./examples/example-content.png)
+
 ---
 
 ## What's inside
