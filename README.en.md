@@ -8,6 +8,15 @@
 
 A methodology skill that makes AI-generated frontends stop looking AI-generated. Forces three cross-referenced documents and exposes the root cause of every "AI design tell."
 
+<p align="center">
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <a href="./.github/banner-prompt.md"><img src="https://img.shields.io/badge/SKILL-v2.0.0-green.svg" alt="Skill version"></a>
+  <a href="https://github.com/0505ttt/frontend-design-research-zh/stargazers"><img src="https://img.shields.io/github/stars/0505ttt/frontend-design-research-zh" alt="GitHub stars"></a>
+  <a href="https://github.com/0505ttt/frontend-design-research-zh/issues"><img src="https://img.shields.io/github/issues/0505ttt/frontend-design-research-zh" alt="GitHub issues"></a>
+  <a href="https://github.com/0505ttt/frontend-design-research-zh/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+  <a href="https://x.com/xyun023"><img src="https://img.shields.io/badge/Follow%20on%20X-000000?logo=x&logoColor=white" alt="Follow on X"></a>
+</p>
+
 English · [中文](./README.md)
 
 ---
