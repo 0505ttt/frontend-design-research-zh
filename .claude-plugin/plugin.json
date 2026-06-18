@@ -1,0 +1,27 @@
+{
+  "name": "frontend-design-research-zh",
+  "version": "2.0.0",
+  "description": "中文前端设计调研方法论 Skill — 反 AI 味陷阱 + 三文档输出 + v0/bolt/lovable 协作 + 中文 AI 生图生态",
+  "author": {
+    "name": "0505ttt",
+    "url": "https://github.com/0505ttt"
+  },
+  "homepage": "https://github.com/0505ttt/frontend-design-research-zh",
+  "repository": "https://github.com/0505ttt/frontend-design-research-zh",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skill",
+    "frontend-design",
+    "anti-ai-design",
+    "design-research",
+    "chinese",
+    "vibecoding",
+    "tailwind",
+    "midjourney",
+    "v0",
+    "bolt",
+    "lovable"
+  ],
+  "categories": ["design", "frontend", "methodology"]
+}
