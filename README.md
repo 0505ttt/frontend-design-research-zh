@@ -11,6 +11,22 @@
 
 ---
 
+## 📸 示例效果
+
+以下是用本 Skill 工作流产出的真实前端示例（无 AI 紫色调、无 mesh gradient、无 SaaS 模板感）：
+
+### 示例 1：首页（编辑设计 + 留白主导）
+
+![示例首页](./examples/example-homepage.png)
+
+### 示例 2：Dashboard（数据驱动 + 单色克制）
+
+![示例 Dashboard](./examples/example-dashboard.png)
+
+> 这两张图都遵循了反陷阱检查清单：单色主调、留白 > 50%、typography 主导、真实数据驱动布局。
+
+---
+
 ## 🎯 解决什么问题
 
 如果你用 AI（Claude / Cursor / v0 / Lovable / Bolt）做前端，大概率遇到过：
