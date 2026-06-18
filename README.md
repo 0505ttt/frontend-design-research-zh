@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/0505ttt/frontend-design-research-zh">
-    <img src=".github/banner.svg" alt="Frontend Design Research" width="100%">
+    <img src=".github/banner.png" alt="Frontend Design Research" width="100%">
   </a>
 </p>
 
